@@ -1,0 +1,237 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:59:52] filterscripts = ""  (string)
+[15:59:52] 
+[15:59:52] Server Plugins
+[15:59:52] --------------
+[15:59:52]  Loading plugin: pawn.cmd
+[15:59:52]   Failed.
+[15:59:52]  Loading plugin: sscanf
+[15:59:52] 
+
+[15:59:52]  ===============================
+
+[15:59:52]       sscanf plugin loaded.     
+
+[15:59:52]          Version:  2.8.3        
+
+[15:59:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:59:52]  ===============================
+
+[15:59:52]   Loaded.
+[15:59:52]  Loaded 1 plugins.
+
+[15:59:52] 
+[15:59:52] Filterscripts
+[15:59:52] ---------------
+[15:59:52]   Loaded 0 filterscripts.
+
+[15:59:52] Script[gamemodes/gamemode.amx]: Run time error 19: "File or function is not found"
+[15:59:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:00:11] filterscripts = ""  (string)
+[16:00:11] 
+[16:00:11] Server Plugins
+[16:00:11] --------------
+[16:00:11]  Loading plugin: pawncmd
+[16:00:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:00:11]   Loaded.
+[16:00:11]  Loading plugin: sscanf
+[16:00:11] 
+
+[16:00:11]  ===============================
+
+[16:00:11]       sscanf plugin loaded.     
+
+[16:00:11]          Version:  2.8.3        
+
+[16:00:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:00:11]  ===============================
+
+[16:00:11]   Loaded.
+[16:00:11]  Loaded 2 plugins.
+
+[16:00:11] 
+[16:00:11] Filterscripts
+[16:00:11] ---------------
+[16:00:11]   Loaded 0 filterscripts.
+
+[16:00:11] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:00:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:00:36] filterscripts = ""  (string)
+[16:00:36] 
+[16:00:36] Server Plugins
+[16:00:36] --------------
+[16:00:36]  Loading plugin: pawncmd
+[16:00:36] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:00:36]   Loaded.
+[16:00:36]  Loading plugin: sscanf
+[16:00:36] 
+
+[16:00:36]  ===============================
+
+[16:00:36]       sscanf plugin loaded.     
+
+[16:00:36]          Version:  2.8.3        
+
+[16:00:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:00:36]  ===============================
+
+[16:00:36]   Loaded.
+[16:00:36]  Loaded 2 plugins.
+
+[16:00:36] 
+[16:00:36] Filterscripts
+[16:00:36] ---------------
+[16:00:36]   Loaded 0 filterscripts.
+
+[16:00:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:03:10] filterscripts = ""  (string)
+[16:03:10] 
+[16:03:10] Server Plugins
+[16:03:10] --------------
+[16:03:10]  Loading plugin: pawncmd
+[16:03:10] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:03:10]   Loaded.
+[16:03:10]  Loading plugin: sscanf
+[16:03:10] 
+
+[16:03:10]  ===============================
+
+[16:03:10]       sscanf plugin loaded.     
+
+[16:03:10]          Version:  2.8.3        
+
+[16:03:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:03:10]  ===============================
+
+[16:03:10]   Loaded.
+[16:03:10]  Loaded 2 plugins.
+
+[16:03:10] 
+[16:03:10] Filterscripts
+[16:03:10] ---------------
+[16:03:10]   Loaded 0 filterscripts.
+
+[16:03:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:12:17] filterscripts = ""  (string)
+[16:12:17] 
+[16:12:17] Server Plugins
+[16:12:17] --------------
+[16:12:17]  Loading plugin: pawncmd
+[16:12:17] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:12:17]   Loaded.
+[16:12:17]  Loading plugin: sscanf
+[16:12:17] 
+
+[16:12:17]  ===============================
+
+[16:12:17]       sscanf plugin loaded.     
+
+[16:12:17]          Version:  2.8.3        
+
+[16:12:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:12:17]  ===============================
+
+[16:12:17]   Loaded.
+[16:12:17]  Loaded 2 plugins.
+
+[16:12:17] 
+[16:12:17] Filterscripts
+[16:12:17] ---------------
+[16:12:17]   Loaded 0 filterscripts.
+
+[16:12:17] Number of vehicle models: 0
+[16:12:41] [connection] 127.0.0.1:50510 requests connection cookie.
+[16:12:42] [connection] incoming connection: 127.0.0.1:50510 id: 0
+[16:12:43] [join] Test has joined the server (0:127.0.0.1)
+[16:16:10] [part] Test has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:19:04] filterscripts = ""  (string)
+[16:19:04] 
+[16:19:04] Server Plugins
+[16:19:04] --------------
+[16:19:04]  Loading plugin: pawncmd
+[16:19:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:19:04]   Loaded.
+[16:19:04]  Loading plugin: sscanf
+[16:19:04] 
+
+[16:19:04]  ===============================
+
+[16:19:04]       sscanf plugin loaded.     
+
+[16:19:04]          Version:  2.8.3        
+
+[16:19:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:19:04]  ===============================
+
+[16:19:04]   Loaded.
+[16:19:04]  Loaded 2 plugins.
+
+[16:19:04] 
+[16:19:04] Filterscripts
+[16:19:04] ---------------
+[16:19:04]   Loaded 0 filterscripts.
+
+[16:19:04] Number of vehicle models: 0
+[16:19:27] [connection] 127.0.0.1:52696 requests connection cookie.
+[16:19:28] [connection] incoming connection: 127.0.0.1:52696 id: 0
+[16:19:28] [join] Test has joined the server (0:127.0.0.1)
+[16:19:39] [part] Test has left the server (0:1)
